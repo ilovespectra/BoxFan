@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BoxFan</string>
+    <string name="play_pause_button">Play or Pause audio</string>
+    <string name="loading">Loading audio file...</string>
+    <string name="volume_label">Volume</string>
+    <string name="setup_instructions">📝 Setup: Place boxfan.mp3 in your Music folder and restart the app.</string>
+</resources>

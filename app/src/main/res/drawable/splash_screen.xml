@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Gradient background -->
+    <item android:drawable="@drawable/gradient_background" />
+    
+    <!-- Boxfan icon centered -->
+    <item android:gravity="center">
+        <bitmap
+            android:src="@drawable/boxfan_icon"
+            android:gravity="center"
+            android:tint="@color/text_primary" />
+    </item>
+</layer-list>
