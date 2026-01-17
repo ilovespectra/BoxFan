@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BoxFan</string>
+    <string name="app_description">White Noise Sleep Timer</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="volume">Volume</string>
+    <string name="set_timer">Set Sleep Timer</string>
+    <string name="timer">Timer</string>
+    <string name="start_timer">Start Timer</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+</resources>
